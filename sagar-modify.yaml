@@ -52,7 +52,7 @@
       community.general.mail:
         host: "{{ email_host }}"
         username: nandkumar.panchal@synechron.com
-        password: cyyvsqrxntlggwqh
+        password: ######
         from: "{{ email_from }}"
         port: 587
         to: "{{ email_to }}"
